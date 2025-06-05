@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tung Tung Sahur - Whack-a-Mole Game</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1,user-scalable=no">
+  <link rel="stylesheet" href="style.css" />
+<script type="importmap">
+    {
+      "imports": {
+        "main": "./main",
+        "game": "./game.js",
+        "characters": "./characters.js"
+      }
+    }
+  </script>
+</head>
+<body>
+  <header>
+    <h1>🐹 Tung Tung Sahur 🏏</h1>
+    <div id="game-stats" class="stats">
+      <div>Score: <span id="score">0</span></div>
+      <div>Missed: <span id="miss">0</span></div>
+      <div>Level: <span id="level">1</span></div>
+    </div>
+  </header>
+  <main>
+    <div id="game-board" class="board"></div>
+    <div id="bat"></div>
+    <div id="game-overlay" class="hidden"></div>
+  </main>
+  <script type="module">
+    import "main";
+  </script>
+</body>
+</html>
