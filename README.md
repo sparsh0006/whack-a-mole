@@ -1,5 +1,8 @@
 # 🐹 Tung Tung Sahur 🏏 - Whack-a-Mole Game
 
+[Pitch](https://tung-tung-sahur-a-whack--5ne4bq2.gamma.site/)  
+[Live demo](http://cyberlife.gg/play/d422c2cb-8788-4ee0-96a0-b1bca1cdcdc6)
+
 ## Description
 
 "Tung Tung Sahur" is a fun, fast-paced Whack-a-Mole style game with a delightful cultural twist, themed around the pre-dawn meal tradition. Players must quickly "whack" the friendly characters that pop up from holes while avoiding the danger characters. Score points, level up for increasing speed, and try not to miss too many!
